@@ -433,9 +433,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-**Developer**: Syed Ayaan Danish  
-**Email**: [ayaan.danish@fu-berlin.de](mailto:ayaan.danish@fu-berlin.de)  
-**GitHub**: [AyaanDanish](https://github.com/AyaanDanish)  
+**Developer**: Abisola Ajuwon  
+**Email**: [abisoa96@zedat.fu-berlin.de](mailto:abisoa96@zedat.fu-berlin.de)  
+**GitHub**: [Abbysola](https://github.com/Abbysola)  
 **Live Demo**: [https://llm-study-coach.vercel.app/](https://llm-study-coach.vercel.app/)
 
 ---
